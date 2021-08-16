@@ -1,2 +1,2 @@
-# SMS1 Rest Client Python
+# SMS1 Python Client
 Sample Rest Client in Python
